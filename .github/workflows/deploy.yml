@@ -46,6 +46,7 @@ jobs:
         with:
           name: lighthouse-reports
           path: .lighthouseci
+          include-hidden-files: true   # .lighthouseci — прихована папка, без цього звіти не зберігаються
 
   deploy:
     name: Деплой на Vercel
