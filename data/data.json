@@ -1,0 +1,242 @@
+{
+  "meta": {
+    "season": 2026,
+    "updated": "2026-07-01",
+    "currency": "UAH",
+    "memberBonusRate": 0.5,
+    "minKg": 1,
+    "maxKg": 500,
+    "note": "Демо-дані: орієнтовні середні ціни приймання для переробки в Україні, сезон 2026; адреси пунктів — демонстраційні"
+  },
+  "berries": [
+    {
+      "id": "raspberry",
+      "uk": "Малина",
+      "en": "Raspberry",
+      "price": 180,
+      "certBonus": 10,
+      "popular": true,
+      "color": "#E4304B",
+      "icon": "assets/icons/raspberry.webp"
+    },
+    {
+      "id": "blueberry",
+      "uk": "Лохина",
+      "en": "Blueberry",
+      "price": 200,
+      "certBonus": 10,
+      "popular": true,
+      "color": "#5263A8",
+      "icon": "assets/icons/blueberry.webp"
+    },
+    {
+      "id": "strawberry",
+      "uk": "Полуниця",
+      "en": "Strawberry",
+      "price": 70,
+      "certBonus": 5,
+      "popular": true,
+      "color": "#EF4B4B",
+      "icon": "assets/icons/strawberry.webp"
+    },
+    {
+      "id": "blackberry",
+      "uk": "Ожина",
+      "en": "Blackberry",
+      "price": 90,
+      "certBonus": 5,
+      "popular": true,
+      "color": "#43304F",
+      "icon": "assets/icons/blackberry.webp"
+    },
+    {
+      "id": "blackcurrant",
+      "uk": "Смородина",
+      "en": "Black currant",
+      "price": 80,
+      "certBonus": 5,
+      "popular": true,
+      "color": "#4B2E59",
+      "icon": "assets/icons/blackcurrant.webp"
+    },
+    {
+      "id": "sourcherry",
+      "uk": "Вишня",
+      "en": "Sour cherry",
+      "price": 70,
+      "certBonus": 5,
+      "popular": true,
+      "color": "#B3202F",
+      "icon": "assets/icons/sourcherry.webp"
+    },
+    {
+      "id": "wild-straw",
+      "uk": "Суниця",
+      "en": "Wild strawberry",
+      "price": 110,
+      "certBonus": 5,
+      "popular": false,
+      "color": "#E4606C",
+      "icon": "assets/icons/wild-straw.webp"
+    },
+    {
+      "id": "redcurrant",
+      "uk": "Порічки",
+      "en": "Red currant",
+      "price": 50,
+      "certBonus": 5,
+      "popular": false,
+      "color": "#E0283F",
+      "icon": "assets/icons/redcurrant.webp"
+    },
+    {
+      "id": "seabuckthorn",
+      "uk": "Обліпиха",
+      "en": "Sea buckthorn",
+      "price": 60,
+      "certBonus": 5,
+      "popular": false,
+      "color": "#F07830",
+      "icon": "assets/icons/seabuckthorn.webp"
+    },
+    {
+      "id": "elderberry",
+      "uk": "Бузина",
+      "en": "Elderberry",
+      "price": 25,
+      "certBonus": 5,
+      "popular": false,
+      "color": "#3B2F4D",
+      "icon": "assets/icons/elderberry.webp"
+    },
+    {
+      "id": "viburnum",
+      "uk": "Калина",
+      "en": "Viburnum",
+      "price": 30,
+      "certBonus": 5,
+      "popular": false,
+      "color": "#D93A2B",
+      "icon": "assets/icons/viburnum.webp"
+    }
+  ],
+  "points": [
+    {
+      "id": "hub",
+      "uk": "Хаб у Городищі",
+      "en": "Horodyshche hub",
+      "addressUk": "с. Городище, вул. Тернопільська, 2д",
+      "addressEn": "2d Ternopilska St, Horodyshche",
+      "hours": "07:00–21:00",
+      "phone": "+380 67 000 00 01"
+    },
+    {
+      "id": "kozova",
+      "uk": "Козова",
+      "en": "Kozova",
+      "addressUk": "смт Козова, вул. Галицька",
+      "addressEn": "Halytska St, Kozova",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 02"
+    },
+    {
+      "id": "berezhany",
+      "uk": "Бережани",
+      "en": "Berezhany",
+      "addressUk": "м. Бережани, вул. Тернопільська",
+      "addressEn": "Ternopilska St, Berezhany",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 03"
+    },
+    {
+      "id": "pidhaitsi",
+      "uk": "Підгайці",
+      "en": "Pidhaitsi",
+      "addressUk": "м. Підгайці, вул. Шевченка",
+      "addressEn": "Shevchenka St, Pidhaitsi",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 04"
+    },
+    {
+      "id": "zboriv",
+      "uk": "Зборів",
+      "en": "Zboriv",
+      "addressUk": "м. Зборів, вул. Б. Хмельницького",
+      "addressEn": "B. Khmelnytskoho St, Zboriv",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 05"
+    },
+    {
+      "id": "zbarazh",
+      "uk": "Збараж",
+      "en": "Zbarazh",
+      "addressUk": "м. Збараж, вул. Грушевського",
+      "addressEn": "Hrushevskoho St, Zbarazh",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 06"
+    },
+    {
+      "id": "terebovlia",
+      "uk": "Теребовля",
+      "en": "Terebovlia",
+      "addressUk": "м. Теребовля, вул. Шевченка",
+      "addressEn": "Shevchenka St, Terebovlia",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 07"
+    },
+    {
+      "id": "buchach",
+      "uk": "Бучач",
+      "en": "Buchach",
+      "addressUk": "м. Бучач, вул. Галицька",
+      "addressEn": "Halytska St, Buchach",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 08"
+    },
+    {
+      "id": "chortkiv",
+      "uk": "Чортків",
+      "en": "Chortkiv",
+      "addressUk": "м. Чортків, вул. Тернопільська",
+      "addressEn": "Ternopilska St, Chortkiv",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 09"
+    },
+    {
+      "id": "monastyryska",
+      "uk": "Монастириська",
+      "en": "Monastyryska",
+      "addressUk": "м. Монастириська, вул. Шевченка",
+      "addressEn": "Shevchenka St, Monastyryska",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 10"
+    },
+    {
+      "id": "rohatyn",
+      "uk": "Рогатин",
+      "en": "Rohatyn",
+      "addressUk": "м. Рогатин, вул. Галицька",
+      "addressEn": "Halytska St, Rohatyn",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 11"
+    },
+    {
+      "id": "burshtyn",
+      "uk": "Бурштин",
+      "en": "Burshtyn",
+      "addressUk": "м. Бурштин, вул. Січових Стрільців",
+      "addressEn": "Sichovykh Striltsiv St, Burshtyn",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 12"
+    },
+    {
+      "id": "halych",
+      "uk": "Галич",
+      "en": "Halych",
+      "addressUk": "м. Галич, вул. Івано-Франківська",
+      "addressEn": "Ivano-Frankivska St, Halych",
+      "hours": "08:00–21:00",
+      "phone": "+380 67 000 00 13"
+    }
+  ]
+}
